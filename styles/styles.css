@@ -1,0 +1,56 @@
+main {
+    overflow: hidden;
+}
+
+body {
+    background-color: rgb(185, 185, 185);
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: rgb(119, 116, 131);
+    padding: 15px;
+}
+
+h1 {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    color:  rgb(15, 88, 7)
+}
+
+h2 {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    color: darkorchid;
+}
+
+nav {
+    margin: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(121, 124, 124);
+    padding: 5px;
+    border-radius: 5px;
+    transition: 1s;
+}
+
+nav a:hover {
+    background-color: darkslategray;
+    color: bisque;
+}
+
+.first {
+    color: rgb(42, 42, 216);
+}
+
+.second {
+    color: rgb(8, 91, 27);
+}
+
+img {
+    width: 300px;
+    margin: 10px;
+}
